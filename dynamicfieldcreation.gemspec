@@ -6,7 +6,7 @@ require 'dynamicfieldcreation/version'
 Gem::Specification.new do |spec|
   spec.name          = "dynamicfieldcreation"
   spec.version       = Dynamicfieldcreation::VERSION
-  spec.authors       = ["sunil kumar"]
+  spec.authors       = ["Sunil Kumar"]
   spec.email         = ["sunil.kumar.14@netsolutionsindia.com"]
   spec.summary       = %q{One can use the gem to create dynamic fields and migrate updated schema to the database. You just need to mention modelName, attributeName and attributeType, rest is all taken care of by dynamicfieldcreation gem.}
   spec.description   = %q{One can use the gem to create dynamic fields and migrate updated schema to the database. You just need to mention modelName, attributeName and attributeType, rest is all taken care of by dynamicfieldcreation gem..}
